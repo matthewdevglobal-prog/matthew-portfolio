@@ -1,34 +1,42 @@
-git add README.md
-git commit -m "Add README with portfolio details"
-git push origin main   # React + TypeScript + Vite
+# Matthew Afriyie | Full Stack Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my official portfolio repository. I am a dedicated Full Stack Developer based in Ghana, specializing in building scalable, high-performance web applications from the ground up.
 
-Currently, two official plugins are available:
+## 🚀 About Me
+I transform complex requirements into intuitive, user-friendly digital solutions. With extensive experience across the entire development lifecycle, I deliver robust back-end systems and responsive front-end interfaces.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 💼 Key Achievements
+- Senior Developer at Tech & Fix: Led development of a SaaS platform serving over 50,000 monthly users, reducing server response time by 40% via microservices architecture.
+- Freelance at Technoloy: Delivered 30+ custom web applications with a 100% client satisfaction rate, consistently finishing projects 15% ahead of schedule.
+- Optimization: Expert in migrating legacy systems to modern frameworks like Laravel and React, and implementing CI/CD pipelines with Docker and AWS.
 
-## React Compiler
+## 🛠️ Technical Expertise
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Front-End
+- React, Vue.js, Angular
+- HTML5, CSS3, Tailwind
 
-## Expanding the Oxlint configuration
+Back-End
+- Node.js, Python (Flask), PHP
+- Express, Socket.io
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+Database & DevOps
+- MySQL, PostgreSQL, MongoDB
+- Docker, AWS, CI/CD, Git
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+## 📜 Certifications
+- Meta Professional Certificate in Full Stack Development (2025)
+- AWS Certified Developer – Associate (2025)
+- freeCodeCamp Full Stack Web Development (2024)
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+## 🎓 Education
+M.D. Degree in Computer Science
+University of Ghana | Graduating 2026
+
+## 📫 Connect With Me
+- Email: matthew.dev.global@gmail.com
+- Portfolio: (https://github.com/matthewdevglobal-prog)
+- Location: Ghana
+
+---
+Built with React, Vite, and Tailwind CSS.   
