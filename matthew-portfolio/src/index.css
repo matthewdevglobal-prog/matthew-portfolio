@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #0ea5e9; /* Your Sky Blue */
+  --color-dark: #0f172a;    /* Your Slate Dark */
+}
+
+body {
+  background-color: var(--color-dark);
+  color: white;
+}   
